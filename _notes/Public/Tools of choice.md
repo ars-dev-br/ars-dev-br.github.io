@@ -15,6 +15,9 @@ E-mail
 Journaling, note taking and task management
 : [Logseq](https://logseq.com/)
 
+Keyboard
+: [Ergodox EZ](https://ergodox-ez.com/)
+
 Password management
 : [Bitwarden](https://bitwarden.com/)
 
@@ -33,4 +36,4 @@ Text editor
 : Page creation
 
 2021-12-01
-: Added Bitwarden under Password management
+: Added Bitwarden under Password management and Ergodox EZ under Keyboard.
