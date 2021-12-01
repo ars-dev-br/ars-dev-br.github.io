@@ -12,6 +12,12 @@ Blogging
 E-mail
 : [FastMail](https://www.fastmail.com/)
 
+Headphones
+: [Massdrop x Sennheiser HD 58X
+  Jubilee](https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones). This
+  is probably one of the best headphones under $1,000, with the
+  benefit of costing one tenth of that.
+
 Journaling, note taking and task management
 : [Logseq](https://logseq.com/)
 
@@ -36,4 +42,5 @@ Text editor
 : Page creation
 
 2021-12-01
-: Added Bitwarden under Password management and Ergodox EZ under Keyboard.
+: Added Bitwarden under Password management, Ergodox EZ under
+  Keyboard, and Sennheiser HD 58X under Headphones.
