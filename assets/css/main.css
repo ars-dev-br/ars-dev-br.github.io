@@ -175,7 +175,7 @@ iframe,
 hr,
 {
   margin: 0;
-  padding: 0; 
+  padding: 0;
 }
 
 ul {
@@ -3887,7 +3887,7 @@ a.navbar-item,
 @media screen and (min-width: 769px), print {
   .section.is-note .column.is-primary-content,
     .note-page-section {
-      padding: 3rem 8rem; } 
+      padding: 3rem 8rem; }
   .note-cards .content {
     width: 88%; }
     }
@@ -3933,4 +3933,11 @@ a.tag:hover {
 
   .homeblock h1 a:hover {
     color : var(--link);
+  }
+
+  .circle {
+    display: block;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 2rem;
   }

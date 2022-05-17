@@ -138,6 +138,11 @@
         {%- if page.permalink == "/posts" -%}
         <div class="column is-half">
           <h1>{{page.title}}</h1>
+	  <p>
+	    These are my blog posts. They (usually) are more
+	    time-sensitive and might only represent my opinion at a
+	    certain point in time. Ordered by <b>publishing</b> date.
+	  </p>
           <div class="block">
             {% for item in site.posts %}
             <div class="block note-cards">
