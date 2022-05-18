@@ -38,8 +38,7 @@
     <meta content="{{ site.url }}/about/" property="article:author">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400;1,600&display=swap"
-          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     {%- if page.title -%}
     <meta content="{{ page.title }}" property="og:title">
     <meta content="article" property="og:type">
@@ -141,7 +140,8 @@
 	  <p>
 	    These are my blog posts. They (usually) are more
 	    time-sensitive and might only represent my opinion at a
-	    certain point in time. Ordered by <b>publishing</b> date.
+	    certain point in time. Ordered by <em>publishing</em>
+	    date.
 	  </p>
           <div class="block">
             {% for item in site.posts %}
