@@ -237,7 +237,7 @@ button,
 input,
 select,
 textarea {
-    font-family: "PT Serif", serif; }
+    font-family: "Noto Sans", "PT Sans", sans-serif; }
 
 code,
 pre {
