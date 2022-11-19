@@ -3938,6 +3938,7 @@ a.tag:hover {
   .circle {
     display: block;
     border-radius: 50%;
+    border: 5px solid var(--border);
     margin: auto;
     margin-bottom: 2rem;
   }
