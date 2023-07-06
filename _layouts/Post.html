@@ -90,8 +90,12 @@
             <div class="note-page-section">
               <div class="buttons for-back-home">
                 {%- if site.preferences.homepage.enabled -%}
-                <a class="button is-text button__page-back" onclick="window.location.assign('/notes');">
-                  {%- else -%}
+  		  {%- if page.content-type == "notes" -%}
+                  <a class="button is-text button__page-back" onclick="window.location.assign('/notes');">
+ 		  {%- elsif page.content-type == "post" -%}
+		  <a class="button is-text button__page-back" onclick="window.location.assign('/posts');">
+		  {%- endif -%}
+                {%- else -%}
                   <a class="button is-text button__page-back" onclick="window.location.assign('/');">
                     {%- endif -%}
                     <span class="icon is-small">
@@ -105,6 +109,13 @@
                   </a>
               </div>
               <h1>{{page.title}}</h1>
+	      {%- if page.content-type == "post" -%}
+	      <p>
+		<em>
+		  {{page.date | date_to_string}}
+		</em>
+	      </p>
+              {%- endif -%}
               {%- include Content.html -%}
               {%- include Backlinks.html -%}
             </div>
