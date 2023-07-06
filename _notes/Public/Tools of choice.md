@@ -1,13 +1,12 @@
 ---
 title: Tools of choice
 notetype: feed
-date: 2022-05-17
+date: 2022-07-06
 ---
 
 Tools that I use and that I actually enjoy using.
 
 ## Blogging
-
 - [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
 
 ## E-mail
@@ -29,7 +28,7 @@ Tools that I use and that I actually enjoy using.
 - [Bitwarden](https://bitwarden.com/)
 
 ## Podcasts
-- [Pocket Casts](https://www.pocketcasts.com/)
+- [Podurama](https://podurama.com/)
 
 ## RSS reader
 - [NewsBlur](https://newsblur.com/)
@@ -37,10 +36,10 @@ Tools that I use and that I actually enjoy using.
 ## Text editor
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 
-## Time-tracking
-- [Toggl Track](https://toggl.com/)
-
 ###### Changelog
+
+2023-07-06
+: Removed Time-tracking and updated Podcasts to Podurama.
 
 2022-05-17
 : Replaced Logseq with Obsidian.
