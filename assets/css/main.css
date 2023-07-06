@@ -237,13 +237,13 @@ button,
 input,
 select,
 textarea {
-    font-family: "Noto Sans", "PT Sans", sans-serif; }
+  font-family: "Source Sans 3", "Noto Sans", "PT Sans", sans-serif; }
 
 code,
 pre {
   -moz-osx-font-smoothing: auto;
   -webkit-font-smoothing: auto;
-  font-family: "Noto Sans Mono", monospace; }
+  font-family: Hasklig, "Source Code Pro", "Noto Sans Mono", monospace; }
 
 body {
   color: var(--text-main);
@@ -672,10 +672,10 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   font-family: "PT Sans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important; }
 
 .is-family-monospace {
-  font-family: "Noto Sans Mono", monospace !important; }
+  font-family: Hasklig, "Source Code Pro", "Noto Sans Mono", monospace !important; }
 
 .is-family-code {
-  font-family: "Noto Sans Mono", monospace !important; }
+  font-family: Hasklig, "Source Code Pro", "Noto Sans Mono", monospace !important; }
 
 .is-block {
   display: block !important; }

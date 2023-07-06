@@ -221,7 +221,7 @@ h6 {
 
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
-    font-family: 'Noto Sans', 'PT Sans', sans-serif;
+    font-family: 'Source Sans 3', 'Noto Sans', 'PT Sans', sans-serif;
 }
 
 p a,
@@ -263,7 +263,7 @@ img {
 
 
 code {
-    font-family: 'Noto Sans Mono', Consolas, 'Courier New', Courier, monospace;
+    font-family: Hasklig, 'Source Code Pro', 'Noto Sans Mono', Consolas, 'Courier New', Courier, monospace;
     display: inline-block;
     overflow: auto !important;
     white-space: line !important;
@@ -291,7 +291,7 @@ code {
 
 
 pre code {
-    font-family: 'Noto Sans Mono', Consolas, 'Courier New', Courier, monospace;
+    font-family: Hasklig, 'Source Code Pro', 'Noto Sans Mono', Consolas, 'Courier New', Courier, monospace;
     display: inline-block;
     overflow: auto !important;
     white-space: line !important;
