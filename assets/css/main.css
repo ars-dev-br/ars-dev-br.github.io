@@ -2615,8 +2615,7 @@ a.navbar-item,
     justify-content: flex-start;
     margin-right: auto; }
   .navbar-end {
-    justify-content: flex-end;
-    margin-left: auto; }
+    justify-content: flex-end; }
   .navbar-dropdown {
     background-color: var(--bg-main);
     border-bottom-left-radius: 8px;
