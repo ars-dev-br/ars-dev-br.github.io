@@ -37,7 +37,7 @@ html[data-theme="dark"] {
     }
 
     html[data-theme="light"] {
-	    --bg-main: #FFFFFF;
+	--bg-main: #FFFFFF;
         --bg-sub: #FAFAFC;
         --text-main: #18181C;
         --text-sub: #5D5D67;
@@ -960,7 +960,7 @@ hr {
 
 .content a {
     color: var(--link);
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .content a:hover {
