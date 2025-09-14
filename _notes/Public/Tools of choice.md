@@ -6,37 +6,34 @@ date: 2022-07-06
 
 Tools that I use and that I actually enjoy using.
 
-## Blogging
-- [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
-
-## E-mail
-- [FastMail](https://www.fastmail.com/)
-
-## Headphones
-- [Massdrop x Sennheiser HD 58X
-  Jubilee](https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones). This
-  is probably one of the best headphones under $1,000, with the
-  benefit of costing one tenth of that.
-
-## Keyboard
-- [Ergodox EZ](https://ergodox-ez.com/)
-
-## Note taking and Task management
-- [Obsidian](https://obsidian.md)
-
-## Password management
-- [Bitwarden](https://bitwarden.com/)
-
-## Podcasts
-- [Podurama](https://podurama.com/)
-
-## RSS reader
-- [NewsBlur](https://newsblur.com/)
-
-## Text editor
-- [GNU Emacs](https://www.gnu.org/software/emacs/)
+- **Blogging**:
+  [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io).
+- **E-mail**:
+  [ProtonMail](https://proton.me/mail)
+- **Headphones**:
+  [Massdrop x Sennheiser HD 58X Jubilee](https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones).
+  This is probably one of the best headphones under $1,000,
+  with the benefit of costing one tenth of that.
+- **Keyboard**:
+  [Ergodox EZ](https://ergodox-ez.com/).
+- **Note taking and Task management**:
+  [Obsidian](https://obsidian.md).
+- **Password management**:
+  [ProtonPass](https://proton.me/pass).
+- **Podcasts**:
+  [Podurama](https://podurama.com/).
+- **RSS reader**:
+  [NewsBlur](https://newsblur.com/).
+- **Text editor**:
+  [Zed](https://zed.dev/).
 
 ###### Changelog
+
+2025-09-14
+: Replaced FastMail with ProtonMail,
+  Bitwarden with ProtonPass,
+  and GNU Emacs with Zed.
+  Updated the formatting a bit too.
 
 2023-07-06
 : Removed Time-tracking and updated Podcasts to Podurama.
