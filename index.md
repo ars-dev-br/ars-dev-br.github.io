@@ -11,7 +11,7 @@ layout: home
 
 I'm Andre Ramaciotti.
 You may also know me as *ars-dev-br,*
-currently a senior software engineer at [Tremendous](https://www.tremendous.com).
+and I'm currently a senior software engineer at [Tremendous](https://www.tremendous.com).
 Previously,
 I worked at [AlphaSights](https://www.alphasights.com),
 [CERTI](https://certi.org.br/en/),
