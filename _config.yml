@@ -25,6 +25,10 @@ description: Senior Software Engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ars.dev.br/" # the base hostname & protocol for your site, e.g. http://example.com
 
+author:
+  name: Andre Ramaciotti
+  email: blog@ars.dev.br
+
 bluesky_username: ars.dev.br
 github_username:  ars-dev-br
 mastodon:
@@ -32,9 +36,27 @@ mastodon:
     instance: hachyderm.io
 
 # Build settings
-theme: minima
+remote_theme: "jekyll/minima@bf9ef98"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+minima:
+  skin: auto
+  show_excerpts: true
+  social_links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/ars-dev-br/
+    - title: BlueSky
+      icon: bluesky
+      url: https://bsky.app/profile/ars.dev.br
+    - title: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/arsdevbr/
+    - title: Mastodon
+      icon: mastodon
+      url: https://hachyderm.io/@ars_dev_br
 
 # Exclude from processing.
 # The following items will not be processed, by default.

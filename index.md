@@ -33,3 +33,5 @@ gaming,
 and playing the guitar.
 If you think we should be in touch,
 feel free to reach me out at <a href="mailto:blog@ars.dev.br">blog@ars.dev.br</a>.
+
+## Posts

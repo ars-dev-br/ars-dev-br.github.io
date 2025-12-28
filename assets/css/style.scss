@@ -1,0 +1,9 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+dt { font-weight: bold; };
+dd { margin-left: 1.5em; margin-bottom: 1em; };
